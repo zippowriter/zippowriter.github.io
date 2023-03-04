@@ -1,2 +1,2 @@
-# zippowriter.github.io
+# Haruhi's Portfolio
 ポートフォリオ用サイト
